@@ -2,34 +2,30 @@
 title: "Homework"
 ---
 
----
-title: "Homework"
----
-
-# Unit 1 homework check (due Sunday, March 21 at 23:59:00)
+# Unit 1 homework check (due Thursday, March 26 at 23:59:00)
 
   - [Unit 1 homework]
 
-# Unit 1 homework (due Sunday, March 28 at 23:59:00) 
+# Unit 1 homework (due Sunday, March 29 at 23:59:00) 
 
   - [Unit 1 homework sample solutions]
   
-# Unit 2 homework check (due Sunday, April 6th at 23:59:00)  
+# Unit 2 homework check (due Sunday, April 5th at 23:59:00)  
 
   - [Unit 2 homework]
   
-# Unit 2 homework (due Sunday, April 13 at 23:59:00) 
+# Unit 2 homework (due Sunday, April 12 at 23:59:00) 
 
   - [Unit 2 homework sample solutions]
 
-# Unit 3 exam (Wednesday, April 23 from 2:45 to 4:00 pm) 
+# Unit 3 exam (Thursday, April 23 from 2:45 to 4:00 pm) 
 
   - [Unit 3 exam solutions]
 
-# Final exam homework check (due Sunday, May 4 at 23:59:00)
+# Final exam homework check (due Sunday, May 3 at 23:59:00)
 
   - [Final project]
 
-# Final project (due Wednesday, May 7 at 23:59:00) 
+# Final project (due Wednesday, May 6 at 23:59:00) 
 
 
