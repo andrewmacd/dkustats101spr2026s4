@@ -42,8 +42,8 @@ Topics covered:
 
 ## Online lab 1.1 (due Sunday, March 22 at 11:59:00 pm)
 
-* Introduction to R
-* Introduction to the Tidyverse
+* [Introduction to R](https://learn.datacamp.com/courses/free-introduction-to-r)
+* [Introduction to the Tidyverse](https://learn.datacamp.com/courses/introduction-to-the-tidyverse)
 
 ## Lecture 1.3: Comparing distributions and the Normal distribution (Tuesday, March 24)
 
