@@ -1,0 +1,151 @@
+"","alltime_rank","wrapped_2025_rank","song_title","artist","total_streams_billions","streams_2025_billions","primary_genre","bpm","release_year","artist_country","explicit","danceability","energy","valence","acousticness","dataset_part","duration_seconds","peak_global_chart_position"
+"1",1,NA,"Blinding Lights","The Weeknd",5.26,NA,"Synth-Pop",171,2019,"Canada","False",0.51,0.8,0.33,0,"Top 100",NA,NA
+"2",2,NA,"Shape of You","Ed Sheeran",4.9,NA,"Pop/Dancehall",96,2017,"UK","False",0.83,0.65,0.93,0.08,"Top 100",NA,NA
+"3",3,NA,"Someone You Loved","Lewis Capaldi",4.05,NA,"Pop",77,2018,"UK","False",0.6,0.45,0.42,0.29,"Top 100",NA,NA
+"4",4,NA,"Sunflower","Post Malone & Swae Lee",3.98,NA,"Hip-Hop/Pop",93,2018,"USA","False",0.76,0.49,0.84,0.15,"Top 100",NA,NA
+"5",5,NA,"One Dance","Drake",3.92,NA,"Afrobeats/Pop",100,2016,"Canada","False",0.79,0.62,0.68,0.09,"Top 100",NA,NA
+"6",6,NA,"Stay","The Kid LAROI & Justin Bieber",3.87,NA,"Pop",170,2021,"Australia","True",0.59,0.8,0.6,0,"Top 100",NA,NA
+"7",7,NA,"Believer","Imagine Dragons",3.76,NA,"Alt Rock",125,2017,"USA","False",0.33,0.86,0.45,0.07,"Top 100",NA,NA
+"8",8,NA,"Rockstar","Post Malone ft. 21 Savage",3.72,NA,"Hip-Hop",159,2017,"USA","True",0.55,0.52,0.13,0.08,"Top 100",NA,NA
+"9",9,NA,"Dance Monkey","Tones and I",3.69,NA,"Pop",98,2019,"Australia","False",0.83,0.63,0.73,0.14,"Top 100",NA,NA
+"10",10,NA,"Happier","Marshmello & Bastille",3.65,NA,"EDM/Pop",100,2018,"USA/UK","False",0.62,0.82,0.96,0.02,"Top 100",NA,NA
+"11",11,NA,"Senorita","Shawn Mendes & Camila Cabello",3.62,NA,"Latin Pop",117,2019,"Canada/Cuba","False",0.75,0.74,0.75,0.14,"Top 100",NA,NA
+"12",12,NA,"Watermelon Sugar","Harry Styles",3.58,NA,"Indie Pop",95,2019,"UK","False",0.55,0.82,0.74,0.12,"Top 100",NA,NA
+"13",13,NA,"Perfect","Ed Sheeran",3.55,NA,"Pop/Folk",95,2017,"UK","False",0.66,0.43,0.41,0.37,"Top 100",NA,NA
+"14",14,NA,"Levitating","Dua Lipa",3.52,NA,"Nu-Disco",103,2020,"UK","False",0.7,0.82,0.91,0,"Top 100",NA,NA
+"15",15,NA,"Heat Waves","Glass Animals",3.4,NA,"Indie Pop",80,2020,"UK","False",0.51,0.54,0.58,0.22,"Top 100",NA,NA
+"16",16,NA,"Bad Guy","Billie Eilish",3.37,NA,"Electropop",135,2019,"USA","False",0.7,0.43,0.56,0,"Top 100",NA,NA
+"17",17,NA,"Drivers License","Olivia Rodrigo",3.34,NA,"Pop",73,2021,"USA","False",0.59,0.43,0.13,0.28,"Top 100",NA,NA
+"18",18,NA,"Circles","Post Malone",3.31,NA,"Pop Rap",121,2019,"USA","False",0.69,0.55,0.72,0.09,"Top 100",NA,NA
+"19",19,NA,"Memories","Maroon 5",3.28,NA,"Pop",91,2019,"USA","False",0.76,0.36,0.7,0.52,"Top 100",NA,NA
+"20",20,NA,"Shallow","Lady Gaga & Bradley Cooper",3.25,NA,"Pop/Country",96,2018,"USA","False",0.59,0.55,0.37,0.22,"Top 100",NA,NA
+"21",21,NA,"As It Was","Harry Styles",3.22,NA,"Indie Pop",174,2022,"UK","False",0.52,0.73,0.36,0,"Top 100",NA,NA
+"22",22,NA,"Dynamite","BTS",3.19,NA,"Pop/Funk",114,2020,"South Korea","False",0.74,0.77,0.74,0.01,"Top 100",NA,NA
+"23",23,NA,"Flowers","Miley Cyrus",3.16,NA,"Pop",118,2023,"USA","False",0.74,0.74,0.88,0.1,"Top 100",NA,NA
+"24",24,NA,"Counting Stars","OneRepublic",3.14,NA,"Pop Rock",122,2013,"USA","False",0.62,0.8,0.58,0.12,"Top 100",NA,NA
+"25",25,NA,"Lucid Dreams","Juice WRLD",3.11,NA,"Emo Rap",84,2018,"USA","True",0.51,0.49,0.22,0.07,"Top 100",NA,NA
+"26",26,NA,"Closer","The Chainsmokers ft. Halsey",3.08,NA,"EDM/Pop",95,2016,"USA","True",0.74,0.65,0.77,0.04,"Top 100",NA,NA
+"27",27,NA,"Calm Down","Rema & Selena Gomez",3.02,NA,"Afrobeats/Pop",106,2022,"Nigeria/USA","False",0.8,0.72,0.78,0.08,"Top 100",NA,NA
+"28",28,NA,"Anti-Hero","Taylor Swift",2.99,NA,"Indie Pop",97,2022,"USA","False",0.64,0.58,0.47,0.1,"Top 100",NA,NA
+"29",29,NA,"Save Your Tears","The Weeknd",2.88,NA,"Synth-Pop",118,2020,"Canada","False",0.68,0.82,0.78,0.01,"Top 100",NA,NA
+"30",30,NA,"Die For You","The Weeknd",2.86,NA,"R&B",95,2016,"Canada","False",0.4,0.55,0.32,0.04,"Top 100",NA,NA
+"31",31,NA,"Lovely","Billie Eilish & Khalid",2.84,NA,"Indie Pop",95,2018,"USA","False",0.35,0.3,0.08,0.5,"Top 100",NA,NA
+"32",32,NA,"Uptown Funk","Mark Ronson ft. Bruno Mars",2.53,NA,"Funk/Pop",115,2014,"USA","False",0.9,0.96,0.82,0.02,"Top 100",NA,NA
+"33",33,NA,"Sweater Weather","The Neighbourhood",2.47,NA,"Indie Rock",124,2013,"USA","False",0.59,0.64,0.5,0.26,"Top 100",NA,NA
+"34",34,NA,"Cruel Summer","Taylor Swift",2.72,NA,"Synth-Pop",170,2019,"USA","False",0.55,0.7,0.57,0.12,"Top 100",NA,NA
+"35",35,NA,"Despacito","Luis Fonsi ft. Daddy Yankee",2.15,NA,"Reggaeton",178,2017,"Puerto Rico","False",0.69,0.81,0.81,0.22,"Top 100",NA,NA
+"36",36,NA,"Havana","Camila Cabello ft. Young Thug",2.13,NA,"Latin Pop",105,2017,"Cuba/USA","False",0.76,0.58,0.61,0.14,"Top 100",NA,NA
+"37",37,NA,"Easy On Me","Adele",2.02,NA,"Pop/Soul",62,2021,"UK","False",0.34,0.26,0.17,0.76,"Top 100",NA,NA
+"38",38,NA,"Lose Yourself","Eminem",1.95,NA,"Hip-Hop",171,2002,"USA","True",0.66,0.62,0.26,0,"Top 100",NA,NA
+"39",39,NA,"Numb","Linkin Park",1.82,NA,"Alt Rock",118,2003,"USA","False",0.46,0.9,0.15,0.02,"Top 100",NA,NA
+"40",40,NA,"Smells Like Teen Spirit","Nirvana",1.8,NA,"Grunge",117,1991,"USA","False",0.5,0.9,0.44,0,"Top 100",NA,NA
+"41",41,NA,"Espresso","Sabrina Carpenter",1.76,NA,"Pop",104,2024,"USA","False",0.8,0.73,0.96,0.06,"Top 100",NA,NA
+"42",42,NA,"Radioactive","Imagine Dragons",1.74,NA,"Alt Rock",136,2012,"USA","False",0.38,0.76,0.23,0.1,"Top 100",NA,NA
+"43",43,NA,"Running Up That Hill","Kate Bush",1.52,NA,"Art Pop",112,1985,"UK","False",0.41,0.68,0.25,0.08,"Top 100",NA,NA
+"44",44,NA,"Not Like Us","Kendrick Lamar",1.5,NA,"Hip-Hop",101,2024,"USA","True",0.82,0.72,0.62,0.04,"Top 100",NA,NA
+"45",45,NA,"good 4 u","Olivia Rodrigo",1.48,NA,"Pop Punk",166,2021,"USA","False",0.56,0.9,0.65,0,"Top 100",NA,NA
+"46",46,NA,"All I Want for Christmas Is You","Mariah Carey",2.76,NA,"Holiday Pop",150,1994,"USA","False",0.42,0.66,0.78,0.32,"Top 100",NA,NA
+"47",47,NA,"Starboy","The Weeknd ft. Daft Punk",2.62,NA,"Synth-Pop",186,2016,"Canada","True",0.68,0.79,0.5,0,"Top 100",NA,NA
+"48",48,NA,"goosebumps","Travis Scott",2.59,NA,"Hip-Hop",130,2016,"USA","True",0.62,0.68,0.39,0.06,"Top 100",NA,NA
+"49",49,NA,"7 rings","Ariana Grande",2.56,NA,"Trap Pop",140,2019,"USA","True",0.64,0.61,0.49,0.02,"Top 100",NA,NA
+"50",50,NA,"Die With A Smile","Lady Gaga & Bruno Mars",1.84,NA,"Pop",120,2024,"USA","False",0.72,0.68,0.55,0.18,"Top 100",NA,NA
+"51",51,NA,"Peaches","Justin Bieber",1.6,NA,"R&B/Pop",90,2021,"Canada","False",0.68,0.52,0.69,0.16,"Top 100",NA,NA
+"52",52,NA,"Falling","Harry Styles",2.4,NA,"Pop Rock",88,2019,"UK","False",0.43,0.43,0.07,0.38,"Top 100",NA,NA
+"53",53,NA,"Thunder","Imagine Dragons",3.49,NA,"Alt Rock",168,2017,"USA","False",0.6,0.52,0.55,0.01,"Top 100",NA,NA
+"54",54,NA,"Bad Habits","Ed Sheeran",1.62,NA,"Synth-Pop",126,2021,"UK","False",0.68,0.83,0.72,0,"Top 100",NA,NA
+"55",55,NA,"Butter","BTS",1.6,NA,"Funk/Pop",110,2021,"South Korea","False",0.79,0.73,0.74,0.01,"Top 100",NA,NA
+"56",56,NA,"Night Changes","One Direction",2.34,NA,"Pop",82,2014,"UK","False",0.56,0.54,0.72,0.3,"Top 100",NA,NA
+"57",57,NA,"High Hopes","Panic! At The Disco",2.32,NA,"Pop Rock",191,2018,"USA","False",0.66,0.83,0.84,0.04,"Top 100",NA,NA
+"58",58,NA,"Riptide","Vance Joy",2.5,NA,"Indie Folk",131,2013,"Australia","False",0.66,0.55,0.82,0.5,"Top 100",NA,NA
+"59",59,NA,"Way Down We Go","KALEO",2.29,NA,"Blues Rock",78,2016,"Iceland","False",0.46,0.48,0.28,0.26,"Top 100",NA,NA
+"60",60,NA,"Heather","Conan Gray",2.26,NA,"Indie Pop",86,2020,"USA","False",0.44,0.3,0.3,0.54,"Top 100",NA,NA
+"61",61,NA,"Mood","24kGoldn ft. iann dior",2.2,NA,"Pop Punk",150,2020,"USA","True",0.7,0.75,0.6,0.02,"Top 100",NA,NA
+"62",62,NA,"Photograph","Ed Sheeran",3.45,NA,"Folk Pop",96,2014,"UK","False",0.6,0.56,0.52,0.31,"Top 100",NA,NA
+"63",63,NA,"Love Yourself","Justin Bieber",2.93,NA,"Acoustic Pop",102,2015,"Canada","False",0.62,0.38,0.55,0.46,"Top 100",NA,NA
+"64",64,NA,"Without Me","Halsey",2.82,NA,"Pop",130,2018,"USA","False",0.58,0.69,0.3,0.05,"Top 100",NA,NA
+"65",65,NA,"Something Just Like This","The Chainsmokers & Coldplay",2.9,NA,"EDM/Pop",103,2017,"USA/UK","False",0.62,0.73,0.53,0.06,"Top 100",NA,NA
+"66",66,NA,"Positions","Ariana Grande",2.65,NA,"R&B/Pop",144,2020,"USA","False",0.74,0.66,0.69,0.04,"Top 100",NA,NA
+"67",67,NA,"Roses","SAINt JHN",3.42,NA,"Hip-Hop",98,2016,"USA","False",0.72,0.62,0.44,0.06,"Top 100",NA,NA
+"68",68,NA,"Thinking Out Loud","Ed Sheeran",2.1,NA,"Soul/R&B",79,2014,"UK","False",0.78,0.44,0.46,0.3,"Top 100",NA,NA
+"69",69,NA,"Wrecking Ball","Miley Cyrus",2.08,NA,"Pop Rock",72,2013,"USA","False",0.36,0.53,0.24,0.24,"Top 100",NA,NA
+"70",70,NA,"golden hour","JVKE",2.68,NA,"Indie Pop",98,2022,"USA","False",0.59,0.55,0.86,0.28,"Top 100",NA,NA
+"71",71,NA,"Unstoppable","Sia",2.96,NA,"Pop",84,2016,"Australia","False",0.64,0.44,0.55,0.18,"Top 100",NA,NA
+"72",72,NA,"abcdefu","GAYLE",1.99,NA,"Pop Punk",144,2021,"USA","True",0.58,0.85,0.68,0.02,"Top 100",NA,NA
+"73",73,NA,"Sunroof","Nicky Youre & Dazy",1.64,NA,"Indie Pop",138,2021,"USA","False",0.76,0.8,0.96,0.06,"Top 100",NA,NA
+"74",74,NA,"Beautiful Things","Benson Boone",1.4,NA,"Pop Rock",97,2024,"USA","False",0.46,0.68,0.46,0.07,"Top 100",NA,NA
+"75",75,NA,"middle of the night","Elley Duhé",2.7,NA,"Pop",97,2022,"USA","False",0.62,0.62,0.44,0.14,"Top 100",NA,NA
+"76",76,NA,"Savage Love","Jawsh 685 & Jason Derulo",1.86,NA,"Pop",107,2020,"NZ/USA","False",0.76,0.69,0.65,0.01,"Top 100",NA,NA
+"77",77,NA,"APT.","ROSE & Bruno Mars",1.66,NA,"K-Pop/Pop",145,2024,"South Korea","False",0.86,0.79,0.88,0.05,"Top 100",NA,NA
+"78",78,NA,"Welcome To The Black Parade","My Chemical Romance",1.78,NA,"Alt Rock",64,2006,"USA","False",0.31,0.85,0.12,0,"Top 100",NA,NA
+"79",79,NA,"Iris","Goo Goo Dolls",1.72,NA,"Alt Rock",77,1998,"USA","False",0.33,0.28,0.14,0.58,"Top 100",NA,NA
+"80",80,NA,"Astronaut In The Ocean","Masked Wolf",1.7,NA,"Hip-Hop",145,2019,"Australia","False",0.72,0.79,0.38,0.04,"Top 100",NA,NA
+"81",81,NA,"Levii's Jeans","Beyoncé ft. Post Malone",1.68,NA,"Country/Pop",106,2024,"USA","False",0.72,0.65,0.72,0.14,"Top 100",NA,NA
+"82",82,NA,"Lose Control","Teddy Swims",1.65,NA,"R&B/Soul",90,2023,"USA","False",0.6,0.55,0.64,0.21,"Top 100",NA,NA
+"83",83,NA,"Too Sweet","Hozier",1.63,NA,"Indie Folk",86,2024,"Ireland","False",0.62,0.48,0.68,0.42,"Top 100",NA,NA
+"84",84,NA,"Sign of the Times","Harry Styles",2.05,NA,"Art Rock",90,2017,"UK","False",0.3,0.53,0.1,0.2,"Top 100",NA,NA
+"85",85,NA,"Adore You","Harry Styles",1.9,NA,"Indie Pop",108,2019,"UK","False",0.56,0.76,0.66,0.04,"Top 100",NA,NA
+"86",86,NA,"Arcade","Duncan Laurence",1.88,NA,"Indie Pop",86,2019,"Netherlands","False",0.34,0.3,0.1,0.52,"Top 100",NA,NA
+"87",87,NA,"See You Again","Wiz Khalifa ft. Charlie Puth",1.42,NA,"Hip-Hop/Pop",80,2015,"USA","False",0.53,0.37,0.48,0.42,"Top 100",NA,NA
+"88",88,NA,"Attention","Charlie Puth",1.44,NA,"Pop",107,2017,"USA","True",0.78,0.68,0.6,0.06,"Top 100",NA,NA
+"89",89,NA,"In The Stars","Benson Boone",1.68,NA,"Pop",80,2023,"USA","False",0.51,0.44,0.42,0.28,"Top 100",NA,NA
+"90",90,NA,"Kiss Me More","Doja Cat ft. SZA",2.23,NA,"Pop/R&B",115,2021,"USA","False",0.78,0.66,0.8,0.02,"Top 100",NA,NA
+"91",91,NA,"End Of Beginning","Djo",1.6,NA,"Indie Rock",139,2022,"USA","False",0.52,0.64,0.44,0.1,"Top 100",NA,NA
+"92",92,NA,"Ribs","Lorde",1.54,NA,"Indie Pop",104,2013,"New Zealand","False",0.38,0.44,0.22,0.3,"Top 100",NA,NA
+"93",93,NA,"Lemon Tree","Fools Garden",1.46,NA,"Pop Rock",139,1996,"Germany","False",0.74,0.76,0.86,0.38,"Top 100",NA,NA
+"94",94,NA,"Bliss","Muse",1.62,NA,"Alt Rock",154,2001,"UK","False",0.44,0.82,0.44,0.04,"Top 100",NA,NA
+"95",95,NA,"Stumblin' In","Cyril & Violet Skies",1.58,NA,"Pop",90,2023,"Netherlands","False",0.66,0.54,0.76,0.22,"Top 100",NA,NA
+"96",96,NA,"Electricity","Silk City & Dua Lipa",1.92,NA,"EDM/Pop",143,2018,"UK","False",0.76,0.88,0.72,0,"Top 100",NA,NA
+"97",97,NA,"Blinding Lights (Remix)","The Weeknd & Rosalía",1.44,NA,"Synth-Pop",171,2020,"Canada/Spain","False",0.54,0.8,0.36,0.01,"Top 100",NA,NA
+"98",98,NA,"Falling For You","Peachy feat. mxmtoon",1.56,NA,"Indie Pop",150,2018,"USA","False",0.64,0.42,0.72,0.38,"Top 100",NA,NA
+"99",99,NA,"Laugh Now Cry Later","Drake ft. Lil Durk",3.05,NA,"Hip-Hop",142,2020,"Canada","True",0.82,0.62,0.55,0.02,"Top 100",NA,NA
+"100",100,NA,"Shake It Off","Taylor Swift",1.6,NA,"Pop",160,2014,"USA","False",0.65,0.8,0.94,0.06,"Top 100",NA,NA
+"101",NA,1,"Die With A Smile","Lady Gaga & Bruno Mars",NA,1.7,"Pop",120,2024,"USA","False",0.72,0.68,0.55,0.18,"2025 Top 50",251,1
+"102",NA,2,"APT.","ROSE & Bruno Mars",NA,1.62,"K-Pop/Pop",145,2024,"South Korea","False",0.86,0.79,0.88,0.05,"2025 Top 50",173,1
+"103",NA,3,"Espresso","Sabrina Carpenter",NA,1.55,"Pop",104,2024,"USA","False",0.8,0.73,0.96,0.06,"2025 Top 50",175,1
+"104",NA,4,"Please Please Please","Sabrina Carpenter",NA,1.48,"Pop",107,2024,"USA","False",0.7,0.66,0.87,0.1,"2025 Top 50",186,1
+"105",NA,5,"Taste","Sabrina Carpenter",NA,1.41,"Pop",117,2024,"USA","True",0.78,0.7,0.82,0.08,"2025 Top 50",177,1
+"106",NA,6,"Birds Of A Feather","Billie Eilish",NA,1.38,"Indie Pop",88,2024,"USA","False",0.75,0.44,0.65,0.38,"2025 Top 50",210,1
+"107",NA,7,"Not Like Us","Kendrick Lamar",NA,1.35,"Hip-Hop",101,2024,"USA","True",0.82,0.72,0.62,0.04,"2025 Top 50",274,1
+"108",NA,8,"Good Luck, Babe!","Chappell Roan",NA,1.29,"Pop",131,2024,"USA","False",0.66,0.78,0.56,0.04,"2025 Top 50",219,1
+"109",NA,9,"Beautiful Things","Benson Boone",NA,1.24,"Pop Rock",97,2024,"USA","False",0.46,0.68,0.46,0.07,"2025 Top 50",211,1
+"110",NA,10,"Lose Control","Teddy Swims",NA,1.2,"R&B/Soul",90,2023,"USA","False",0.6,0.55,0.64,0.21,"2025 Top 50",202,1
+"111",NA,11,"Too Sweet","Hozier",NA,1.18,"Indie Folk",86,2024,"Ireland","False",0.62,0.48,0.68,0.42,"2025 Top 50",236,1
+"112",NA,12,"Lunch","Billie Eilish",NA,1.15,"Indie Pop",96,2024,"USA","True",0.7,0.52,0.55,0.14,"2025 Top 50",172,1
+"113",NA,13,"Boom Boom Boom Boom","ROSE",NA,1.12,"K-Pop/Pop",140,2024,"South Korea","False",0.84,0.82,0.92,0.03,"2025 Top 50",182,1
+"114",NA,14,"Million Dollar Baby","Tommy Richman",NA,1.09,"R&B/Pop",135,2024,"USA","True",0.77,0.76,0.8,0.06,"2025 Top 50",138,1
+"115",NA,15,"Sticky","Shaboozey",NA,1.07,"Country/Hip-Hop",93,2024,"USA","False",0.72,0.58,0.74,0.18,"2025 Top 50",191,1
+"116",NA,16,"A Bar Song (Tipsy)","Shaboozey",NA,1.05,"Country",96,2024,"USA","False",0.7,0.6,0.78,0.22,"2025 Top 50",224,1
+"117",NA,17,"I Had Some Help","Post Malone ft. Morgan Wallen",NA,1.03,"Country/Pop",110,2024,"USA","False",0.74,0.65,0.8,0.15,"2025 Top 50",192,1
+"118",NA,18,"Flowers","Miley Cyrus",NA,0.98,"Pop",118,2023,"USA","False",0.74,0.74,0.88,0.1,"2025 Top 50",200,1
+"119",NA,19,"Cruel Summer","Taylor Swift",NA,0.96,"Synth-Pop",170,2019,"USA","False",0.55,0.7,0.57,0.12,"2025 Top 50",178,1
+"120",NA,20,"Fortnight","Taylor Swift ft. Post Malone",NA,0.94,"Indie Pop",107,2024,"USA","False",0.55,0.54,0.22,0.18,"2025 Top 50",228,1
+"121",NA,21,"Levii's Jeans","Beyoncé ft. Post Malone",NA,0.92,"Country/Pop",106,2024,"USA","False",0.72,0.65,0.72,0.14,"2025 Top 50",254,1
+"122",NA,22,"Texas Hold 'Em","Beyoncé",NA,0.9,"Country",87,2024,"USA","False",0.62,0.6,0.74,0.35,"2025 Top 50",238,1
+"123",NA,23,"Gata Only","FloyyMenor & Cris MJ",NA,0.88,"Reggaeton",105,2023,"Chile","True",0.86,0.8,0.76,0.05,"2025 Top 50",165,1
+"124",NA,24,"Tusa","KAROL G & Nicki Minaj",NA,0.87,"Reggaeton",130,2019,"Colombia","False",0.78,0.78,0.72,0.08,"2025 Top 50",200,1
+"125",NA,25,"Lovin On Me","Jack Harlow",NA,0.85,"Hip-Hop/Pop",100,2023,"USA","False",0.78,0.62,0.85,0.07,"2025 Top 50",167,1
+"126",NA,26,"Baile Inolvidable","KAROL G",NA,0.84,"Latin Pop",100,2024,"Colombia","False",0.8,0.72,0.82,0.1,"2025 Top 50",202,1
+"127",NA,27,"LTME Post","Gracie Abrams",NA,0.82,"Indie Pop",92,2024,"USA","False",0.6,0.48,0.44,0.3,"2025 Top 50",194,1
+"128",NA,28,"Bed Chem","Sabrina Carpenter",NA,0.8,"Pop",104,2024,"USA","True",0.72,0.58,0.78,0.12,"2025 Top 50",160,2
+"129",NA,29,"Exes","Tate McRae",NA,0.79,"Pop",128,2024,"Canada","False",0.8,0.72,0.72,0.08,"2025 Top 50",177,1
+"130",NA,30,"Jump","Tyla",NA,0.78,"Afrobeats",110,2024,"South Africa","False",0.86,0.76,0.84,0.06,"2025 Top 50",191,2
+"131",NA,31,"Water","Tyla",NA,0.77,"Afrobeats",107,2023,"South Africa","False",0.82,0.7,0.8,0.08,"2025 Top 50",177,1
+"132",NA,32,"I Can Do It With A Broken Heart","Taylor Swift",NA,0.76,"Synth-Pop",164,2024,"USA","False",0.64,0.74,0.68,0.04,"2025 Top 50",213,1
+"133",NA,33,"luther","Kendrick Lamar & SZA",NA,0.74,"Hip-Hop/R&B",76,2024,"USA","False",0.56,0.42,0.48,0.32,"2025 Top 50",242,1
+"134",NA,34,"WILDFLOWER","Billie Eilish",NA,0.73,"Indie Pop",90,2024,"USA","False",0.6,0.42,0.5,0.42,"2025 Top 50",189,3
+"135",NA,35,"Pink Pony Club","Chappell Roan",NA,0.72,"Synth-Pop",130,2021,"USA","False",0.72,0.8,0.62,0.06,"2025 Top 50",251,4
+"136",NA,36,"Femininomenon","Chappell Roan",NA,0.71,"Synth-Pop",116,2023,"USA","False",0.7,0.78,0.68,0.04,"2025 Top 50",224,5
+"137",NA,37,"End Of Beginning","Djo",NA,0.7,"Indie Rock",139,2022,"USA","False",0.52,0.64,0.44,0.1,"2025 Top 50",196,3
+"138",NA,38,"Like That","Kendrick Lamar",NA,0.69,"Hip-Hop",100,2024,"USA","True",0.7,0.68,0.42,0.06,"2025 Top 50",285,2
+"139",NA,39,"we can't be friends","Ariana Grande",NA,0.68,"R&B/Pop",72,2024,"USA","False",0.48,0.4,0.28,0.5,"2025 Top 50",218,1
+"140",NA,40,"Vampire","Olivia Rodrigo",NA,0.67,"Pop Rock",91,2023,"USA","False",0.52,0.58,0.44,0.08,"2025 Top 50",218,1
+"141",NA,41,"Stumblin' In","Cyril & Violet Skies",NA,0.66,"Pop",90,2023,"Netherlands","False",0.66,0.54,0.76,0.22,"2025 Top 50",184,3
+"142",NA,42,"Yellow","Coldplay",NA,0.64,"Alternative",88,2000,"UK","False",0.46,0.54,0.36,0.14,"2025 Top 50",269,4
+"143",NA,43,"Pretty Girl","Clairo",NA,0.63,"Indie Pop",97,2017,"USA","False",0.7,0.52,0.68,0.28,"2025 Top 50",164,22
+"144",NA,44,"Running Up That Hill","Kate Bush",NA,0.62,"Art Pop",112,1985,"UK","False",0.41,0.68,0.25,0.08,"2025 Top 50",301,3
+"145",NA,45,"good 4 u","Olivia Rodrigo",NA,0.61,"Pop Punk",166,2021,"USA","False",0.56,0.9,0.65,0,"2025 Top 50",178,1
+"146",NA,46,"Shake It Off","Taylor Swift",NA,0.6,"Pop",160,2014,"USA","False",0.65,0.8,0.94,0.06,"2025 Top 50",219,1
+"147",NA,47,"Espresso (Remix)","Sabrina Carpenter & Jimin",NA,0.59,"Pop/K-Pop",104,2024,"USA/S.Korea","False",0.82,0.74,0.92,0.05,"2025 Top 50",178,2
+"148",NA,48,"That's So True","Gracie Abrams",NA,0.58,"Indie Pop",97,2024,"USA","False",0.64,0.55,0.66,0.22,"2025 Top 50",185,1
+"149",NA,49,"Bodyguard","Beyoncé",NA,0.57,"Country",90,2024,"USA","False",0.6,0.56,0.66,0.38,"2025 Top 50",218,4
+"150",NA,50,"Azizam","Ed Sheeran",NA,0.56,"Pop/Folk",88,2023,"UK","False",0.7,0.52,0.72,0.32,"2025 Top 50",196,3

@@ -1,0 +1,166 @@
+---
+title: "Unit 1 homework instructions"
+date: "3/20/2026"
+subtitle: DKU Stats 101 Spring 2026 S4
+format:
+  html:
+    html-math-method: mathml
+    embed-resources: true
+---
+
+```{r}
+#| label: setup
+#| include: false
+
+library(tidyverse)
+
+# Make sure that your data file is in the same location as where you have saved this document
+spotify <- read.csv("spotify.csv")
+
+# Put any other setup code here
+```
+
+# Scoring guide 
+
+### Content
+
+- Getting the right answer is only a small part of the grade
+- Good quality interpretation of your results is the name of the game
+- If you see something that looks unusual in your data (outlier, some unusual distribution type) - investigate it! 
+- When explaining your results, say something interesting about them. Did it match your expectations? Why or why not? 
+- Brief explanations that simply repeat what I can visually see myself will not receive a good score
+- On the other hand, filling the homework with pages of not very interesting description is not valuable either. The goal isn't to write the most words, but find the most interesting things in the data.
+- You do not need to be an expert in music to get a good grade on this assignment, but I will expect you to look up basic information, such as "what are popular music genres" and "what does BPM mean"? and so on to help you understand and set expectations your data.
+- The information requested in the question prompts are only a starting point, if you find other interesting information along the way, please report that. You don't need to look at the data forever but if there is obviously something else interesting in the data you should report it.
+- You must have up to Question 1 completed for the homework preliminary check on Thursday, March 26th
+
+### Technical
+
+- Make sure your graphs are produced using `ggplot()`, are well labeled, and are easy to read. 
+- Make sure your tables are produced with the `kable()` function from the `knitr` package, are well labeled, and are easy to read. You can make your tables prettier with the `kableExtra` package.
+- Make sure you do not have anything rendered in your HTML file besides your results and, when asked for by a question, your code. That means no warnings, messages, or other output should appear in your final rendered HTML file.
+
+![](spotify.jpg)
+
+# Questions
+
+## Question 1: Displaying and describing the data (25 points)
+
+For this investigation, we are going to examine the distribution streams. 
+
+### 1a. Investigating `bpm`
+
+Using the Think-Show-Tell framework from the textbook, investigate the distribution of `bpm`.
+
+Note: I recommend you use the internet to look up what `bpm` is
+
+> Think
+
+*For this section, please write down your expectations, why you expect it, the variable meaning, and, given the variable type, the best way to display the data*
+
+> Show
+
+*For this section, please make an appropriate graph or table and briefly describe what you observe*
+
+> Tell
+
+*Please interpret the meaning of your finding here, especially with respect to your expectation*
+
+### 1b. Investigating `bpm` by overall vs. 2025
+
+Using the Think-Show-Tell framework from the textbook (example on page 71), investigate the distribution of `bpm` but you should compare the 2025 data vs. the all time data. Make note of any differences between the two and think about why, if there are differences, why they would exist.
+
+> Think
+
+*For this section, please write down your expectations, why you expect it, the variable meaning, and, given the variable type, the best way to display the data*
+
+> Show
+
+*For this section, please make an appropriate graph or table and briefly describe what you observe*
+
+> Tell
+
+*Please interpret the meaning of your finding here, especially with respect to your expectation*
+
+
+### 1d. Thinking about your results
+
+Consider the results of 1b. and 1c. together. What can we understand about whether there is any change in popular music style over time from these displays?
+
+## Question 2: Comparing groups (25 points)
+
+It is often said that US music is more pop and rap oriented whereas European music is more dance-oriented. However, music in general has become more global in the last 20-30 years and so therefore it is interesting to consider whether this stereotype holds true or not.
+
+### 2a. Compare `danceability` by whether the music is from the `USA` or not
+
+*Hint*: You can use the `dplyr` verb `ifelse` to make a new column as to whether the music is from the USA.
+
+> Think
+
+*For this section, please write down your expectations, why you expect it, the variable meaning, and, given the variable type, the best way to display the data*
+
+> Show
+
+*For this section, please make an appropriate graph or table and briefly describe what you observe*
+
+> Tell
+
+*Please interpret the meaning of your finding here, especially with respect to your expectation*
+
+### 2b. Compare `energy` by whether the music is from the `USA` or not
+
+> Think
+
+*For this section, please write down your expectations, why you expect it, the variable meaning, and, given the variable type, the best way to display the data*
+
+> Show
+
+*For this section, please make an appropriate graph or table and briefly describe what you observe*
+
+> Tell
+
+*Please interpret the meaning of your finding here, especially with respect to your expectation*
+
+### 2c. Thinking about your results
+
+Consider the results of 2b. and 2c. together. What are the limitations of the data in answering the question? What other information do you think you would need to truly answer the question?
+
+## Question 3: Considering deviations (25 points)
+
+### 3a. Selecting your data
+
+Make a subset of either Hip-Hop, Synth-Pop, or Indie Pop and create a subset of your data using the `filter` verb.
+
+### 3b. Finding the average
+
+Make a table of the averages of `bpm`, `danceability`, `energy`, `valence`, and `acousticness`. Show your code using the `#| echo: true` code block option. 
+
+### 3c. Normalizing the data
+
+Add a row to your table; find how many $z$ units each of your subset averages are away from the overall averages in the dataset. Show your code using the `#| echo: true` code block option. 
+
+### 3d. Thinking about your results
+
+Interpret your results - what do the $z$ scores indicate about how similar the subset is to the overall dataset? Are the results surprising to you? What are the limitations of your findings?
+
+## Question 4: Your own investigation (25 points)
+
+### 4a. Selecting your own question
+
+Similar to the previous questions, think of your own question that you would like to ask of the data, ideally one that goes deeper into one of the questions considered above. The best way to approach this question is to think about what would be interesting to know or maybe something where you have an expectation about something in the data that you can test by viewing the distributions of the variables or by comparing categorical variables. Use the Think-Show-Tell procedure to conduct your investigation. Think deeply about what your result means. 
+
+> Think
+
+*For this section, please write down your expectations, why you expect it, the variable meaning, and, given the variable type, the best way to display the data*
+
+> Show
+
+*For this section, please make an appropriate graph or table and briefly describe what you observe*
+
+> Tell
+
+*Please interpret the meaning of your finding here, especially with respect to your expectation*
+
+### 4b. In summary
+
+Sum up everything that you have learned from questions 1-4. Do not simply repeat/rephrase your previous results but try to say something larger that synthesizes the results together to draw a more meaningful general conclusion.
