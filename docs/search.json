@@ -217,46 +217,74 @@
     "text": "Final project (due Wednesday, May 6 at 23:59:00)\n\nHomework files: Final project instructions"
   },
   {
-    "objectID": "lectures/lecture.1.2.html#distribution-of-common-quantities",
-    "href": "lectures/lecture.1.2.html#distribution-of-common-quantities",
-    "title": "Lecture 1.2 - Characteristics of distributions",
-    "section": "Distribution of common quantities",
-    "text": "Distribution of common quantities\nMany phenomena in nature have a relatively easily guessed distribution characteristics\n\nWhat is the distribution of length of rivers in the U.S.?\nWhat is the distribution of width of flower sepals?\nWhat is the distribution of life expectancy across countries in 2007?\n\nFeatures to guess:\n\nShape\nCenter\nSpread"
+    "objectID": "lectures/lecture.1.3.html#thoughts-about-comparing-groups",
+    "href": "lectures/lecture.1.3.html#thoughts-about-comparing-groups",
+    "title": "Lecture 1.3 - Advanced distributions",
+    "section": "Thoughts about comparing groups",
+    "text": "Thoughts about comparing groups\n\nFaceted histograms are a reasonable display to show distributions by a categorical variable\n\nHowever these displays become hard to interpret when the number of levels in a category grows large\n\nMuch easier to interpret is side by side box plots\nBox plots capture many important characteristics of a distribution into a summary display\nThink carefully about how you treat outliers\nLet’s view data from the 2024-2025 NBA season"
   },
   {
-    "objectID": "lectures/lecture.1.2.html#graphs-of-common-quantities",
-    "href": "lectures/lecture.1.2.html#graphs-of-common-quantities",
-    "title": "Lecture 1.2 - Characteristics of distributions",
-    "section": "Graphs of common quantities",
-    "text": "Graphs of common quantities\n\nLength of rivers in the U.S.\n\n\n\n\n\n\n\n\n\n\nFlower sepal width\n\n\n\n\n\n\n\n\n\n\nLife expetancy in 2007"
+    "objectID": "lectures/lecture.1.3.html#two-group-comparison",
+    "href": "lectures/lecture.1.3.html#two-group-comparison",
+    "title": "Lecture 1.3 - Advanced distributions",
+    "section": "Two group comparison",
+    "text": "Two group comparison\n\nNBA side-by-side histograms of points scored by W/L\n\n\n\n\n\n\n\n\n\n\nNBA boxplot comparison of points scored by W/L\n\n\n\n\n\n\n\n\n\n\nNBA boxplot comparison of points scored by W/L (better)"
   },
   {
-    "objectID": "lectures/lecture.1.2.html#data-generating-process",
-    "href": "lectures/lecture.1.2.html#data-generating-process",
-    "title": "Lecture 1.2 - Characteristics of distributions",
-    "section": "Data generating process",
-    "text": "Data generating process\nData is what we record.\nData is a function of: Data point = underlying process + random variation + measurement error\nExample: flower size.\n\nTruncated data\nData not generate for values above or below specific values.\nFor example, all age data is truncated at zero.\n\nActivity\n\n\n\nData generating process - advanced: height activity\nWhat do you expect the shape, center, and spread of class height to be? Why? Write down with your partner your guesses."
+    "objectID": "lectures/lecture.1.3.html#many-group-comparison",
+    "href": "lectures/lecture.1.3.html#many-group-comparison",
+    "title": "Lecture 1.3 - Advanced distributions",
+    "section": "Many group comparison",
+    "text": "Many group comparison\n\nNBA side-by-side histograms of points scored by team\n\n\n\n\n\n\n\n\n\n\nNBA boxplot comparison of points scored by team (better)\n\n\n\n\n\n\n\n\n\n\nYour turn\n\nWork with your neighbor to analyze a different set of statistics\n\nCan be by division or not\nRemember the key features of distributions\n\nShape\nCenter\nSpread\n\n\nInterpret your results\nVariable definitions:\n\nMP: minutes played\nFG: field goal baskets made\nFGA: field goal baskets attempted\nFG.: field goal percentage\nX3P: three pointers made\nX3PA: three pointers attempted\nFT: free throws made\nFTA: free throws attempted\nFT.: free throw percentage\nORB: offensive rebounds\nDRB: defensive rebounds\nTRB: total rebounds\nAST: assists\nSTL: steals\nBLK: blocks\nTOV: turnovers\nPF: personal fouls\nPTS: points scored"
   },
   {
-    "objectID": "lectures/lecture.1.2.html#height-distribution",
-    "href": "lectures/lecture.1.2.html#height-distribution",
-    "title": "Lecture 1.2 - Characteristics of distributions",
-    "section": "Height distribution",
-    "text": "Height distribution"
+    "objectID": "lectures/lecture.1.3.html#checking-outliers---assists",
+    "href": "lectures/lecture.1.3.html#checking-outliers---assists",
+    "title": "Lecture 1.3 - Advanced distributions",
+    "section": "Checking outliers - assists",
+    "text": "Checking outliers - assists\n\nOutliers - assists\n\n\n\n\n\n\n\n\n\n\nAssists &gt; 40 - true outliers?"
   },
   {
-    "objectID": "lectures/lecture.1.2.html#closing-thoughts",
-    "href": "lectures/lecture.1.2.html#closing-thoughts",
-    "title": "Lecture 1.2 - Characteristics of distributions",
-    "section": "Closing thoughts",
-    "text": "Closing thoughts\n\nMany distributions can be guessed in advanced based on the data generating process\nYou should have at least a guess as to what the distribution is before starting your exploratory data analysis\nThink carefully about what your variable is actually measuring\nCharacteristics of distributions are summaries of the data, almost always obscure features of the data\nDon’t mislead your readers!!"
+    "objectID": "lectures/lecture.1.3.html#checking-outliers---points",
+    "href": "lectures/lecture.1.3.html#checking-outliers---points",
+    "title": "Lecture 1.3 - Advanced distributions",
+    "section": "Checking outliers - points",
+    "text": "Checking outliers - points\n\nOutliers - points\n\n\n\n\n\n\n\n\n\n\nPoints by team &gt; 150 - true outliers?"
   },
   {
-    "objectID": "homework.html",
-    "href": "homework.html",
-    "title": "Homework",
-    "section": "",
-    "text": "Unit 1 homework check (due Thursday, March 26 at 23:59:00)\n\nUnit 1 homework\n\n\n\nUnit 1 homework (due Sunday, March 29 at 23:59:00)\n\n[Unit 1 homework sample solutions]\n\n\n\nUnit 2 homework check (due Sunday, April 5th at 23:59:00)\n\n[Unit 2 homework]\n\n\n\nUnit 2 homework (due Sunday, April 12 at 23:59:00)\n\n[Unit 2 homework sample solutions]\n\n\n\nUnit 3 exam (Thursday, April 23 from 2:45 to 4:00 pm)\n\n[Unit 3 exam solutions]\n\n\n\nFinal exam homework check (due Sunday, May 3 at 23:59:00)\n\n[Final project]\n\n\n\nFinal project (due Wednesday, May 6 at 23:59:00)"
+    "objectID": "lectures/lecture.1.3.html#in-summary",
+    "href": "lectures/lecture.1.3.html#in-summary",
+    "title": "Lecture 1.3 - Advanced distributions",
+    "section": "In summary",
+    "text": "In summary\n\nThink about which kind of display is appropriate for comparing distributions\nWhen conditioning on a categorical variable, boxplots are usually better\nBut boxplots lose information\nThink carefully about omitting outliers\nOutliers may reveal important information about your dataset!"
+  },
+  {
+    "objectID": "lectures/lecture.1.3.html#titanic-passengers-and-the-normal-distribution",
+    "href": "lectures/lecture.1.3.html#titanic-passengers-and-the-normal-distribution",
+    "title": "Lecture 1.3 - Advanced distributions",
+    "section": "Titanic passengers and the Normal distribution",
+    "text": "Titanic passengers and the Normal distribution\n\n\n\nTitanic\n\n\n\nDataset of passengers on the Titanic\n\n\n\n\n\n\n\n\n\nWhat are your expectations for how age should be distributed?\n\n\n\n\n\n\n\n\n\n\nWe are going to violate our first three rules:\n\nMake a picture\nMake a picture\nMake a picture\n\n\n\n\nWere the passenger ages normally distributed?\nTo answer that question, we need some information about the distribution\nRemember, our main information about distributions is:\n\nShape\nCenter\nSpread\n\n\n\nInformation about age\n\nStandard deviation: 14.4\nMean: 29.9\nNormal model: \\(N(\\mu, \\sigma) = N(29.9,14.4)\\)\n\n\\(\\mu\\) is the theoretical mean\n\\(\\sigma\\) is the theoretical standard deviation\nThese values define the data generating process\nWe only see some values of the data generating process, but if we saw infinite values, the mean would be \\(\\mu\\) and the sd would be \\(\\sigma\\)\nMore on this in the second half of class\n\nHow can we check normality using this information?"
+  },
+  {
+    "objectID": "lectures/lecture.1.3.html#checking-normality",
+    "href": "lectures/lecture.1.3.html#checking-normality",
+    "title": "Lecture 1.3 - Advanced distributions",
+    "section": "Checking normality",
+    "text": "Checking normality\n\nThinking about normality\n\nWe can check normality by comparing the quantiles of our data with that of the known quantiles of the normal distribution\n\nWe know approximately 95% of the data lies within two standard deviations\nTherefore, 2.5% data with the lowest values lie outside of -2 standard deviations and 2.5% of data with the highest values lie outside of 2 standard deviations\n\nSimilarly, we know the same information for data within one standard deviation (16%, 68%, 16%)\n\n\n\nData within standard deviations"
+  },
+  {
+    "objectID": "lectures/lecture.1.3.html#checking-against-the-data",
+    "href": "lectures/lecture.1.3.html#checking-against-the-data",
+    "title": "Lecture 1.3 - Advanced distributions",
+    "section": "Checking against the data",
+    "text": "Checking against the data\n\nHistogram of ages from the data\n\n\n\n\n\n\n\n\n\n\nNormality and scaling\n\nNote that normality does not depend on the size of the standard deviation or the size of the mean\nCould easily change the units to be months instead of years\n\nMean would increase a lot\nStandard deviation would increase a lot\nHowever, amount of observations within each standard deviation would stay the same"
+  },
+  {
+    "objectID": "lectures/lecture.1.3.html#final-thoughts-on-normality",
+    "href": "lectures/lecture.1.3.html#final-thoughts-on-normality",
+    "title": "Lecture 1.3 - Advanced distributions",
+    "section": "Final thoughts on normality",
+    "text": "Final thoughts on normality\n\nWhen is the normal distribution useful?\n\nWhen we know a data-generating process is normally distributed we don’t even need to sample the population\n\nCan find out exactly how much data is between a certain number of standard deviations\n\nWhen we expect a data-generating process to be normally distributed, can test for deviations from normality\n\nIn the case of Titanic passengers, some parts of the distribution were more bunched up, others more spread out\n\nA lot of our statistical techniques require or work better when the data is ‘roughly’ normal\n\nWill detail these in the coming weeks\n\nWe can transform our data to be closer to normal\n\nNote that transformations won’t work if the data has multiple modes, can only correct skew\n\n\n\n\nWhat transformation would be helpful for age?"
   },
   {
     "objectID": "index.html",
@@ -270,7 +298,7 @@
     "href": "index.html#assessment",
     "title": "Course Introduction",
     "section": "Assessment",
-    "text": "Assessment\n\nHomework 65%: At the end of the first two groups of content, a homework will be assigned that will ask you to analyze a dataset and answer questions related to that concept group. These homeworks are due at the noted date at 11:59 pm China time. Each homework will also have a best graph contest, where the person whose classmates vote as having the best graph wins some extra credit points.\n\nHomework 1: 10%\nHomework 2: 25%\nFinal project: 30%\n\nHomework checks 5%: To make sure you are making good progress on your homework, the Sunday before the homework is due (except for the first homework) you will be required to submit your progress on the homework so far. You are required to have tried to have answered all the questions covered by the lectures and textbook up to the specified cutoff. I will not check your answers but rather check to see if you have made a good effort to answer all the questions derived from the material already covered. If you have a reasonable answer for each question checked you will get full points. If you have not made an effort to answer all the questions reviewed you will get a zero.\nUnit 3 exam 25%: Unit 3 comprehension is better checked through an in-class exam. The exam will be open notes but closed book and will take place during the normal lab session that week.\nData Camp labs 5%: A number of labs on the website Data Camp will be assigned to you; these labs are pass/fail and you will receive full credit if you complete each of the labs by the specified due date.\nAttendance & warmup quizzes: I want you to attend class - there are a lot of studies that show those who attend class and pay attention, learn more and have higher grades. However, I am not your parent. So, it is up to you if you want to be assessed for attendance. Attendance is therefore optional, but, you can sign a pledge at the start of class promising to attend all classes and stay for the entire class (you can miss up to one class without an excuse) and if you complete the pledge, you will receive an extra 1% of extra credit on your final grade. However, if you fail the pledge, you will receive -1% grade deduction. Similarly, the beginning of the class warmup quizzes are partially for me to see how well you have understood the textbook materials, but it is also an incentive for you to read and understand the textbook chapters before class. I will not record your grade on the quizzes. However, you can also sign a pledge to count your warmup quizzes as part of your grade. If you agree to be assessed on the warmup quizzes, you must maintain at least a 66% average on the quizzes (I will drop your lowest quiz score). If you do, you will receive 2% extra credit on your final grade. If you sign the pledge but fail to maintain the average, you will be deducted 2% from your final grade."
+    "text": "Assessment\n\nHomework 65%: At the end of the first two groups of content, a homework will be assigned that will ask you to analyze a dataset and answer questions related to that concept group. These homeworks are due at the noted date at 11:59 pm China time. Each homework will also have a best graph contest, where the person whose classmates vote as having the best graph wins some extra credit points.\n\nHomework 1: 10%\nHomework 2: 25%\nFinal project: 30%\n\nHomework checks 5%: To make sure you are making good progress on your homework, the Sunday before the homework is due (except for the first homework) you will be required to submit your progress on the homework so far. You are required to have tried to have answered all the questions covered by the lectures and textbook up to the specified cutoff. I will not check your answers but rather check to see if you have made a good effort to answer all the questions derived from the material already covered. If you have a reasonable answer for each question checked you will get full points. If you have not made an effort to answer all the questions reviewed you will get a zero.\nUnit 3 exam 25%: Unit 3 comprehension is better checked through an in-class exam. The exam will be open notes but closed book and will take place during the normal lab session that week.\nData Camp labs 5%: A number of labs on the website Data Camp will be assigned to you; these labs are pass/fail and you will receive full credit if you complete each of the labs by the specified due date.\nAttendance & warmup quizzes: I want you to attend class - there are a lot of studies that show those who attend class and pay attention, learn more and have higher grades. However, I am not your parent. So, it is up to you if you want to be assessed for attendance. Attendance is therefore optional, but, you can sign a pledge at the start of class promising to attend all classes and stay for the entire class (you can miss up to one class without an excuse) and if you complete the pledge, you will receive an extra 1% of extra credit on your final grade. However, if you fail the pledge, you will receive -1% grade deduction. Similarly, the beginning of the class warmup quizzes are partially for me to see how well you have understood the textbook materials, but it is also an incentive for you to read and understand the textbook chapters before class. I will not record your grade on the quizzes. However, you can also sign a pledge to count your warmup quizzes as part of your grade. If you agree to be assessed on the warmup quizzes, you must maintain at least a 66% average on the quizzes. If you do, you will receive 2% extra credit on your final grade. If you sign the pledge but fail to maintain the average, you will be deducted 2% from your final grade."
   },
   {
     "objectID": "index.html#missing-class",
@@ -313,6 +341,48 @@
     "title": "Course Introduction",
     "section": "Disabilities Policy",
     "text": "Disabilities Policy\nIf you need an accommodation due to a disability, you should not hesitate to request one. The process is that requests should be sent to the Dean of Undergraduate Studies, who will contact me with recommended type of accommodation that is needed. You do not need to disclose your reason for requesting an accommodation with me, and asking through the Dean of Undergraduate Studies helps make things official for both you and me."
+  },
+  {
+    "objectID": "homework.html",
+    "href": "homework.html",
+    "title": "Homework",
+    "section": "",
+    "text": "Unit 1 homework check (due Thursday, March 26 at 23:59:00)\n\nUnit 1 homework\n\n\n\nUnit 1 homework (due Sunday, March 29 at 23:59:00)\n\n[Unit 1 homework sample solutions]\n\n\n\nUnit 2 homework check (due Sunday, April 5th at 23:59:00)\n\n[Unit 2 homework]\n\n\n\nUnit 2 homework (due Sunday, April 12 at 23:59:00)\n\n[Unit 2 homework sample solutions]\n\n\n\nUnit 3 exam (Thursday, April 23 from 2:45 to 4:00 pm)\n\n[Unit 3 exam solutions]\n\n\n\nFinal exam homework check (due Sunday, May 3 at 23:59:00)\n\n[Final project]\n\n\n\nFinal project (due Wednesday, May 6 at 23:59:00)"
+  },
+  {
+    "objectID": "lectures/lecture.1.2.html#distribution-of-common-quantities",
+    "href": "lectures/lecture.1.2.html#distribution-of-common-quantities",
+    "title": "Lecture 1.2 - Characteristics of distributions",
+    "section": "Distribution of common quantities",
+    "text": "Distribution of common quantities\nMany phenomena in nature have a relatively easily guessed distribution characteristics\n\nWhat is the distribution of length of rivers in the U.S.?\nWhat is the distribution of width of flower sepals?\nWhat is the distribution of life expectancy across countries in 2007?\n\nFeatures to guess:\n\nShape\nCenter\nSpread"
+  },
+  {
+    "objectID": "lectures/lecture.1.2.html#graphs-of-common-quantities",
+    "href": "lectures/lecture.1.2.html#graphs-of-common-quantities",
+    "title": "Lecture 1.2 - Characteristics of distributions",
+    "section": "Graphs of common quantities",
+    "text": "Graphs of common quantities\n\nLength of rivers in the U.S.\n\n\n\n\n\n\n\n\n\n\nFlower sepal width\n\n\n\n\n\n\n\n\n\n\nLife expetancy in 2007"
+  },
+  {
+    "objectID": "lectures/lecture.1.2.html#data-generating-process",
+    "href": "lectures/lecture.1.2.html#data-generating-process",
+    "title": "Lecture 1.2 - Characteristics of distributions",
+    "section": "Data generating process",
+    "text": "Data generating process\nData is what we record.\nData is a function of: Data point = underlying process + random variation + measurement error\nExample: flower size.\n\nTruncated data\nData not generate for values above or below specific values.\nFor example, all age data is truncated at zero.\n\nActivity\n\n\n\nData generating process - advanced: height activity\nWhat do you expect the shape, center, and spread of class height to be? Why? Write down with your partner your guesses."
+  },
+  {
+    "objectID": "lectures/lecture.1.2.html#height-distribution",
+    "href": "lectures/lecture.1.2.html#height-distribution",
+    "title": "Lecture 1.2 - Characteristics of distributions",
+    "section": "Height distribution",
+    "text": "Height distribution"
+  },
+  {
+    "objectID": "lectures/lecture.1.2.html#closing-thoughts",
+    "href": "lectures/lecture.1.2.html#closing-thoughts",
+    "title": "Lecture 1.2 - Characteristics of distributions",
+    "section": "Closing thoughts",
+    "text": "Closing thoughts\n\nMany distributions can be guessed in advanced based on the data generating process\nYou should have at least a guess as to what the distribution is before starting your exploratory data analysis\nThink carefully about what your variable is actually measuring\nCharacteristics of distributions are summaries of the data, almost always obscure features of the data\nDon’t mislead your readers!!"
   },
   {
     "objectID": "rmanual.html",
@@ -417,7 +487,7 @@
     "href": "rmanual.html#helpful-summary-functions",
     "title": "R Manual",
     "section": "Helpful summary functions",
-    "text": "Helpful summary functions\n\nSummarizing data\nThe simpliest way to summarize data is the summary() command.\n\nsummary(mtcars$mpg)\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  10.40   15.43   19.20   20.09   22.80   33.90 \n\n\nTo develop more complex summary statistics, you can use longer piped structures from dplyr as follows:\n\nmtcars %&gt;%\n  group_by(cyl) %&gt;%\n  summarise(mean = mean(wt), n = n())\n\n# A tibble: 3 × 3\n    cyl  mean     n\n  &lt;dbl&gt; &lt;dbl&gt; &lt;int&gt;\n1     4  2.29    11\n2     6  3.12     7\n3     8  4.00    14\n\n\nTo view more samples of the summarize() function, see here:\nSummarize documetation\n\n\nFinding normal distribution & quantile information\nIf you want to find out details of the normal distribution, there are a suite of function in R that can report the quantile of a specific number of standard deviations from the center of a normal distribution or the reverse.\n\n# What is the amount of area under the normal curve cumulative up to +2 sd from the mean \npnorm(2, mean=0, sd=1)\n\n[1] 0.9772499\n\n# At how many standard deviations away from the mean is 97.5% of the area under the normal curve\nqnorm(0.975, mean=0, sd=1)\n\n[1] 1.959964\n\n\nIf you have an arbitrary distribution (that may not necessarily be normally distributed), you can find a quantile for a given percentage of area under the curve with the quantile() function.\n\n# generate a uniform distribution\ndist&lt;-runif(1000, min=0, max=1)\n\n# theoretically, the quantile should match the probability for a uniform distribution\nquantile(dist, probs=0.5)\n\n      50% \n0.4920566"
+    "text": "Helpful summary functions\n\nSummarizing data\nThe simpliest way to summarize data is the summary() command.\n\nsummary(mtcars$mpg)\n\n   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. \n  10.40   15.43   19.20   20.09   22.80   33.90 \n\n\nTo develop more complex summary statistics, you can use longer piped structures from dplyr as follows:\n\nmtcars %&gt;%\n  group_by(cyl) %&gt;%\n  summarise(mean = mean(wt), n = n())\n\n# A tibble: 3 × 3\n    cyl  mean     n\n  &lt;dbl&gt; &lt;dbl&gt; &lt;int&gt;\n1     4  2.29    11\n2     6  3.12     7\n3     8  4.00    14\n\n\nTo view more samples of the summarize() function, see here:\nSummarize documetation\n\n\nFinding normal distribution & quantile information\nIf you want to find out details of the normal distribution, there are a suite of function in R that can report the quantile of a specific number of standard deviations from the center of a normal distribution or the reverse.\n\n# What is the amount of area under the normal curve cumulative up to +2 sd from the mean \npnorm(2, mean=0, sd=1)\n\n[1] 0.9772499\n\n# At how many standard deviations away from the mean is 97.5% of the area under the normal curve\nqnorm(0.975, mean=0, sd=1)\n\n[1] 1.959964\n\n\nIf you have an arbitrary distribution (that may not necessarily be normally distributed), you can find a quantile for a given percentage of area under the curve with the quantile() function.\n\n# generate a uniform distribution\ndist&lt;-runif(1000, min=0, max=1)\n\n# theoretically, the quantile should match the probability for a uniform distribution\nquantile(dist, probs=0.5)\n\n      50% \n0.4878715"
   },
   {
     "objectID": "rmanual.html#frequency-table-and-contingency-table",
