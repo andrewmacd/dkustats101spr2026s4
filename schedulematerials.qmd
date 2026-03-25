@@ -63,7 +63,7 @@ Topics covered:
 
 ## Lab 1.2: Advanced Quarto editing (Thursday, March 26)
 
-* Lab files: Lab 1.2
+* Lab files: [Lab 1.2](labs/Lab.1.2/lab.1.2.zip)
 
   * Make sure to extract (unzip) the lab files before attempting to modify them!
 
