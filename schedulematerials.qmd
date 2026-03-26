@@ -98,7 +98,7 @@ Topics covered:
 
 * Lecture webpage: [Lecture 2.1](lectures/lecture.2.1.html)
 
-* Lecture activity: Lecture 2.1 activity
+* Lecture activity: [Lecture 2.1 activity](lectures/lecture.2.1.activity.zip)
 
   * Sample solution: Lecture 2.1 activity sample solution
 
