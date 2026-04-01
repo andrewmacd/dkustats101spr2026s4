@@ -8,14 +8,16 @@ title: "Homework"
 
 # Unit 1 homework (due Sunday, March 29 at 23:59:00) 
 
+  - [Unit 1 homework](homeworks/Unit 1 homework/unit.1.hw.zip)
   - [Unit 1 homework sample solutions]
   
 # Unit 2 homework check (due Sunday, April 5th at 23:59:00)  
 
-  - [Unit 2 homework]
+  - [Unit 2 homework](homeworks/Unit 2 homework/unit.2.hw.zip)
   
 # Unit 2 homework (due Sunday, April 12 at 23:59:00) 
 
+  - [Unit 2 homework](homeworks/Unit 2 homework/unit.2.hw.zip)
   - [Unit 2 homework sample solutions]
 
 # Unit 3 exam (Thursday, April 23 from 2:45 to 4:00 pm) 
