@@ -17,8 +17,8 @@ webr:
     - gridExtra
     - kableExtra
   resources:
-    - https://raw.githubusercontent.com/andrewmacd/dkustats101fall2025s2/main/lectures/datasets/auto.mpg.csv
-    - https://raw.githubusercontent.com/andrewmacd/dkustats101fall2025s2/main/lectures/datasets/classroster.csv
+    - https://raw.githubusercontent.com/andrewmacd/dkustats101spr2026s4/main/lectures/datasets/auto.mpg.csv
+    - https://raw.githubusercontent.com/andrewmacd/dkustats101spr2026s4/main/lectures/datasets/classroster.csv
 ---
 
 {{< include ../_extensions/r-wasm/live/_knitr.qmd >}}
