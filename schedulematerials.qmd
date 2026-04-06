@@ -168,9 +168,7 @@ Topics covered:
 
 -   Lecture webpage: Lecture 2.4
 
--   Lecture activity: Lecture 2.4 activity
-
-    -   Sample solution: Lecture 2.4 activity sample solution
+-   Lecture activity: [Lecture 2.4 activity](activities/Lecture 2.4/lecture.2.4.activity.zip)
 
 ## Unit 2 homework (due Sunday, April 12 at 11:59:00)
 
@@ -179,6 +177,8 @@ Topics covered:
 # Unit 3: Measuring uncertainty
 
 ## Lecture 3.1: Confidence intervals - proportions (Thursday, April 9)
+
+Podcast for class: [https://sciencefictionspod.substack.com/p/episode-46-the-marshmallow-test](https://sciencefictionspod.substack.com/p/episode-46-the-marshmallow-test)
 
 Reading to do before class: Chapter 13
 
