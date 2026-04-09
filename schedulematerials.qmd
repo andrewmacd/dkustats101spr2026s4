@@ -200,7 +200,7 @@ Topics covered:
 
 ## Lab 2.2: Interpreting coefficients (Thursday, April 9)
 
--   Lab files: Lab 2.2
+-   Lab files: [Lab 2.2](labs/Lab.2.2/lab.2.2.zip)
 
     -   Sample solution: Lab 2.2 sample solution
     -   Make sure to extract (unzip) the lab files before attempting to modify them!
