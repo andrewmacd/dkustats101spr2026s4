@@ -219,11 +219,9 @@ Topics covered:
 
 -   Final thoughts on confidence intervals
 
--   Lecture webpage: Lecture 3.2
+-   Lecture webpage: [Lecture 3.2](lectures/lecture.3.2.html)
 
--   Lecture activity: Lecture 3.2 activity
-
-    -   Sample solution: Lecture 3.2 activity sample solution
+-   Lecture activity: [Lecture 3.2 activity](activities/Lecture 3.2/lecture.3.2.activity.zip)
 
 ## Lecture 3.3: Hypothesis testing (Thursday, April 16)
 
