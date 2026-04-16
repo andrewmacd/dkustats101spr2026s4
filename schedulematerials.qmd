@@ -202,7 +202,6 @@ Topics covered:
 
 -   Lab files: [Lab 2.2](labs/Lab.2.2/lab.2.2.zip)
 
-    -   Sample solution: Lab 2.2 sample solution
     -   Make sure to extract (unzip) the lab files before attempting to modify them!
 
 ## Lecture 3.2: Confidence intervals - means (Tuesday, April 14)
@@ -243,9 +242,8 @@ Topics covered:
 
 ## Lab 3.1: Bootstrapping (Thursday, April 16)
 
--   Lab files: Lab 3.1
+-   Lab files: [Lab 3.1](labs/Lab.3.1/lab.3.1.zip)
 
-    -   Sample solution: Lab 3.1 sample solution
     -   Make sure to extract (unzip) the lab files before attempting to modify them!
 
 ## Lecture 3.4: Hypothesis testing wisdom (Tuesday, April 21)
