@@ -18,7 +18,7 @@ webr:
     - kableExtra
     - scales
   resources:
-    - https://raw.githubusercontent.com/andrewmacd/dkustats101spr2026s5/main/lectures/datasets/king.county.sales.recent.csv
+    - https://raw.githubusercontent.com/andrewmacd/dkustats101spr2026s4/main/lectures/datasets/king.county.sales.recent.csv
     - https://raw.githubusercontent.com/andrewmacd/dkustats101spr2026s4/main/lectures/datasets/titanic.survival.csv
     - https://raw.githubusercontent.com/andrewmacd/dkustats101spr2026s4/main/lectures/datasets/classroster.csv
 ---
