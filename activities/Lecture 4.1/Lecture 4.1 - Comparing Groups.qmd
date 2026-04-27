@@ -65,7 +65,8 @@ us.dol.sample %>%
   filter(married=="no") %>% 
   summarize(mean.wage.married = mean(wage), 
             sd.wage.married = sd(wage),
-            range.wage.married = range(wage))
+            min.wage.married = min(wage),
+            max.wage.married = max(wage))
 ```
 
 6. Also make a second table with summary data (mean, standard deviation, range) for the overall values of your response variable (`wage`) from your sample. 
