@@ -316,8 +316,8 @@ Topics covered:
 
 ## Final project - progress check (due Sunday, May 3 at 23:59:00)
 
--   Homework files: Final project instructions
+-   Homework files: [Final project instructions](homeworks/Final project/final.project.zip)
 
 ## Final project (due Wednesday, May 6 at 23:59:00)
 
--   Homework files: Final project instructions
+-   Homework files: [Final project instructions](homeworks/Final project/final.project.zip)
