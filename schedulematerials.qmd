@@ -306,7 +306,7 @@ Topics covered:
 
 ## Lab 4.1: Interpretation activity (Thursday, April 30)
 
--   Lab files: Lab 4.1
+-   [Reading](lectures/Final class reading.pdf)
 
 ## Online lab 4.1 (due on Friday, May 1 at 11:59:00)
 
